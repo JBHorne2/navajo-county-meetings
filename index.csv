@@ -1,7 +1,4 @@
 date,body,doc_type,extraction,path
-,BOA,minutes,ok,BOA/2023/--_BOA_minutes_.md
-,BOS,agenda,poor-likely-scanned,BOS/2017/--_BOS_agenda_.md
-,PZ,minutes,poor-likely-scanned,PZ/2023/--_PZ_minutes_.md
 2003-01-07,BOS,agenda,ok,BOS/2003/2003-01-07_BOS_agenda_1119.md
 2003-01-07,BOS,agenda,ok,BOS/2003/2003-01-07_BOS_agenda_320.md
 2003-01-27,BOS,agenda,ok,BOS/2003/2003-01-27_BOS_agenda_1120.md
@@ -967,6 +964,7 @@ date,body,doc_type,extraction,path
 2016-12-13,BOS,agenda,ok,BOS/2016/2016-12-13_BOS_agenda_374.md
 2016-12-13,BOS,agenda,ok,BOS/2016/2016-12-13_BOS_agenda_417.md
 2016-12-14,BOA,agenda,ok,BOA/2016/2016-12-14_BOA_agenda_114.md
+2017-01-01,BOS,agenda,poor-likely-scanned,BOS/2017/2017-01-01_BOS_agenda_319.md
 2017-01-11,BOA,agenda,ok,BOA/2017/2017-01-11_BOA_agenda_1.md
 2017-01-11,BOA,minutes,ok,BOA/2017/2017-01-11_BOA_minutes_1.md
 2017-02-15,BOA,agenda,ok,BOA/2017/2017-02-15_BOA_agenda_2.md
@@ -1426,8 +1424,10 @@ date,body,doc_type,extraction,path
 2022-12-13,BOS,agenda-packet,ok,BOS/2022/2022-12-13_BOS_agenda-packet_seq199.md
 2022-12-13,BOS,minutes,ok,BOS/2022/2022-12-13_BOS_minutes_seq200.md
 2022-12-15,PZ,agenda,poor-likely-scanned,PZ/2022/2022-12-15_PZ_agenda_38.md
+2023-01-01,PZ,agenda,poor-likely-scanned,PZ/2023/2023-01-01_PZ_agenda_815.md
 2023-01-10,BOS,agenda-packet,ok,BOS/2023/2023-01-10_BOS_agenda-packet_seq217.md
 2023-01-10,BOS,minutes,ok,BOS/2023/2023-01-10_BOS_minutes_seq218.md
+2023-01-11,BOA,agenda,ok,BOA/2023/2023-01-11_BOA_agenda_37.md
 2023-01-19,PZ,agenda-packet,ok,PZ/2023/2023-01-19_PZ_agenda-packet_seq242.md
 2023-01-19,PZ,minutes,ok,PZ/2023/2023-01-19_PZ_minutes_seq243.md
 2023-01-24,BOS,agenda-packet,ok,BOS/2023/2023-01-24_BOS_agenda-packet_seq218.md
