@@ -45,6 +45,6 @@ PDF page boundaries. A small number of documents are flagged
 Known gaps: three BOS agenda packets (2025-01-14, 2025-10-14, 2026-01-13) are
 corrupt on the county's server; the plain agenda HTML is included instead.
 Meetings during 2020–2023 were held or streamed via Zoom and have no public
-video/transcript. Original binary archive (PDFs) lives on the archive machine
-under `D:\Claude\NavajoCountyAgendas\`, downloaded via the scripts
-`Download-NavajoAgendas.ps1` and `Download-NavajoTranscripts.ps1`.
+video/transcript. Original binary archive (PDFs) lives on the archive machine in
+the `NavajoCountyAgendas\` folder alongside the collection scripts, downloaded
+via `Download-NavajoAgendas.ps1` and `Download-NavajoTranscripts.ps1`.
